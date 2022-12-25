@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcbn_magazine"]=self["webpackChunkcbn_magazine"]||[]).push([[705],{7705:function(n,s,t){t.r(s),t.d(s,{default:function(){return r}});var a=function(){var n=this;n._self._c;return n._m(0)},c=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"audio"},[s("div",{staticClass:"none"},[s("img",{attrs:{src:t(5298)}}),s("span",[n._v("暂无离线数据")])])])}],e=t(1001),i={},u=(0,e.Z)(i,a,c,!1,null,"5429c0f3",null),r=u.exports}}]);
+//# sourceMappingURL=705.05096ae0.js.map
